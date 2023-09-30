@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img src="[PUT THE LINK HERE](https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg)">
 
 Nice to meet you. Not much but I try to do something and everything I can.
 <div align="center">
@@ -43,13 +42,28 @@ I am a Student Intern Open Source Developer <img src="https://media.giphy.com/me
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="CSS3" alt="CSS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubunturr" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity " width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title=" VSCode" alt="VSCcide" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" alt="CX=ccc0deSS" width="40" height="40" />
 
 </div>
 
+### 🤝🏻: Connect with Me :
+
+<div>
+  <a href="mailto:dev04san@gmail.com.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="50" height="50" /></a>
+  <a href="https://www.linkedin.com/in/dev-sanghvi-616843128"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="50" height="50"/></a>
+  <a href="https://www.reddit.com/user/RelationBorn0509"><img src="https://icons8.com/icon/8weyx4k1jpJy/social-news-aggregation%2C-web-content-rating%2C-and-discussion-website." alt="reddit" width="50" height="50"/></a>
+  <a href="https://open.spotify.com/user/9h0c9n6smzx0y280sr4xc4coq"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify" width="50" height="50"/></a>
+</div>
+
+
+### 📈: My Github Stats :
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Dv04&theme=onedark&column=-1" alt="Github Trophies"/>
+</p>
 
 <a href="https://github.com/Dv04/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dv04&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent" />
