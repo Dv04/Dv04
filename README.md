@@ -52,7 +52,7 @@ I am a Student Intern Open Source Developer <img src="https://media.giphy.com/me
 
 
 <a href="https://github.com/Dv04/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dv04&show=prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&bg_color=00000000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dv04&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/Dv04/convoychat">
   <img height=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dv04&size_weight=0.5&count_weight=0.5&langs_count=20&layout=donut-vertical" />
