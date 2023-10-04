@@ -13,6 +13,8 @@ I am a Student Intern Open Source Developer <img src="https://media.giphy.com/me
 
 - :zap: My Free time goes in doing competitive programming in Leetcode, Codechef and Codeforeces.
 
+- [📁](https://github.com/Dv04/Coded) Visit my main Repository [![Static Badge](https://img.shields.io/badge/Dv04-Coded-blue)](https://github.com/Dv04/Coded)
+
 - :mailbox:Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Dev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dev-sanghvi-616843128/)
 
 ### 💻: Languages and Tools :
