@@ -60,8 +60,7 @@ I am a Student Intern Open Source Developer <img src="https://media.giphy.com/me
   <a href="https://open.spotify.com/user/9h0c9n6smzx0y280sr4xc4coq"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify" width="50" height="50"/></a>
 </div>
 
-[![@Dv04's Holopin board](https://holopin.me/dv04)](https://www.holopin.io/@dv04)
-
+[![An image of @dv04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dv04)](https://holopin.io/@dv04)
 
 ### 📈: My Github Stats :
 
