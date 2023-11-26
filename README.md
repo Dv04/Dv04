@@ -83,3 +83,16 @@ I am a Student Intern Open Source Developer <img src="https://media.giphy.com/me
 [![Dev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dv04&theme=dracula)](https://github.com/Dv04/github-readme-activity-graph)
 
 [![Dv04's GitHub | Languages Over Time](https://stats.quine.sh/Dv04/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Dv04)
+
+
+
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/Dv04/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
+    </a>
+</p>
+
+
+<p>
+  <img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/Dv04/achievements?format=svg&limit=10" width="350" />
+</p>
