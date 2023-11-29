@@ -91,8 +91,3 @@ I am a Student Intern Open Source Developer <img src="https://media.giphy.com/me
         <img src="https://api.vaunt.dev/v1/github/entities/Dv04/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
     </a>
 </p>
-
-
-<p>
-  <img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/Dv04/achievements?format=svg&limit=10" width="350" />
-</p>
