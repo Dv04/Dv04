@@ -131,11 +131,6 @@ passion: Turning research into production-ready AI that runs on the edge
 
   <br/><br/>
 
-  <!-- Trophies -->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=dv04)](https://github.com/dv04/github-profile-trophy)
-
-  <br/><br/>
-
   <!-- Activity Graph -->
   <a href="https://github.com/Dv04">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dv04&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6E40&area=true&area_color=58A6FF" alt="Activity Graph" />
