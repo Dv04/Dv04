@@ -157,40 +157,6 @@ passion: Turning research into production-ready AI that runs on the edge
   </picture>
 </div>
 
-> **⚙️ Setup Required:** To enable the snake animation, add the GitHub Action workflow below to your profile repo at `.github/workflows/snake.yml`:
->
-> <details>
-> <summary>📋 Click to expand snake workflow</summary>
->
-> ```yaml
-> name: Generate Snake
->
-> on:
->   schedule:
->     - cron: "0 */12 * * *" # every 12 hours
->   workflow_dispatch:
->
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: Dv04
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
->
-> </details>
-
 ---
 
 ## 🎧 Spotify
@@ -198,8 +164,6 @@ passion: Turning research into production-ready AI that runs on the edge
 <div align="center">
 
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9h0c9n6smzx0y280sr4xc4coq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=9h0c9n6smzx0y280sr4xc4coq&redirect=true)
-
-  > *If the widget above doesn't render, deploy [Novatorem](https://github.com/novatorem/novatorem) or [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) to your own Vercel and update the link.*
 
 </div>
 
