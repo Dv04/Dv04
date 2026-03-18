@@ -132,9 +132,7 @@ passion: Turning research into production-ready AI that runs on the edge
   <br/><br/>
 
   <!-- Trophies -->
-  <a href="https://github.com/Dv04">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dv04&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-  </a>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=dv04)](https://github.com/dv04/github-profile-trophy)
 
   <br/><br/>
 
