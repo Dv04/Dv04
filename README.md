@@ -197,7 +197,7 @@ passion: Turning research into production-ready AI that runs on the edge
 
 <div align="center">
 
-  [![Spotify](https://novatorem-dv04.vercel.app/api/spotify?background_color=0d1117&border_color=58A6FF)](https://open.spotify.com/user/9h0c9n6smzx0y280sr4xc4coq)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9h0c9n6smzx0y280sr4xc4coq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=9h0c9n6smzx0y280sr4xc4coq&redirect=true)
 
   > *If the widget above doesn't render, deploy [Novatorem](https://github.com/novatorem/novatorem) or [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) to your own Vercel and update the link.*
 
