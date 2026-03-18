@@ -1,7 +1,7 @@
 <!-- Header: Animated Typing SVG -->
 <div align="center">
   <a href="https://github.com/Dv04">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey%2C+I'm+Dev+Sanghvi+%F0%9F%91%8B;AI+%7C+Edge+Vision+%7C+Startup+Founder+%7C+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey%2C+I'm+Dev+Sanghvi+%F0%9F%91%8B;AI+%7C+Edge+Vision+%7C+Startup+Founder" alt="Typing SVG" />
   </a>
 </div>
 
